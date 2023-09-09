@@ -1,3 +1,3 @@
 sums: {
-	"github.com/hofstadter-io/test-hof-mod-public-e": "v0.0.1": ["h1:gSyhx0i2V+bVBX3VdxWaJnWB829/rTT8GWwIO7CmJ5M="]
+	"github.com/hofstadter-io/test-hof-mod-public-e": "v0.0.2": ["h1:7dJc3cicoz+8jTauOuP4xvVfzmCDGynXt/9QNMrK68A="]
 }
